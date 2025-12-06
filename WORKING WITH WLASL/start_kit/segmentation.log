@@ -1,0 +1,274 @@
+[2025-12-06 04:35:43] ===== SEGMENTATION PROCESS STARTED =====
+[2025-12-06 04:35:43] Loading WLASL JSON annotations...
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22109.mp4 (already processed)
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_69325.mp4 (already processed)
+[2025-12-06 04:35:43] MISSING FILE: fish_22129
+[2025-12-06 04:35:43] MISSING FILE: fish_22130
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22114.mp4 (already processed)
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22115.mp4 (already processed)
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22116.mp4 (already processed)
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22117.mp4 (already processed)
+[2025-12-06 04:35:43] MISSING FILE: fish_22118
+[2025-12-06 04:35:43] MISSING FILE: fish_22119
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22120.mp4 (already processed)
+[2025-12-06 04:35:43] SKIP: subset_clips/fish/fish_22121.mp4 (already processed)
+[2025-12-06 04:35:43] MISSING FILE: fish_65731
+[2025-12-06 04:35:43] MISSING FILE: fish_22113
+[2025-12-06 04:35:43] MISSING FILE: fish_67667
+[2025-12-06 04:35:43] MISSING FILE: fish_22124
+[2025-12-06 04:35:43] PROCESSING: subset_raw/fish_22125.mp4.mkv → subset_clips/fish/fish_22125.mp4  [frames 0 to -2]
+[2025-12-06 04:35:44] SUCCESS: subset_clips/fish/fish_22125.mp4
+[2025-12-06 04:35:44] PROCESSING: subset_raw/fish_22126.mp4.mkv → subset_clips/fish/fish_22126.mp4  [frames 0 to -2]
+[2025-12-06 04:35:44] SUCCESS: subset_clips/fish/fish_22126.mp4
+[2025-12-06 04:35:44] PROCESSING: subset_raw/fish_22127.mp4.mkv → subset_clips/fish/fish_22127.mp4  [frames 0 to -2]
+[2025-12-06 04:35:44] SUCCESS: subset_clips/fish/fish_22127.mp4
+[2025-12-06 04:35:44] PROCESSING: subset_raw/fish_22128.mp4.mkv → subset_clips/fish/fish_22128.mp4  [frames 0 to -2]
+[2025-12-06 04:35:45] SUCCESS: subset_clips/fish/fish_22128.mp4
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35506.mp4 (already processed)
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_68099.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: meet_68974
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35511.mp4 (already processed)
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35512.mp4 (already processed)
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35513.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: meet_35514
+[2025-12-06 04:35:45] MISSING FILE: meet_35515
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35516.mp4 (already processed)
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35517.mp4 (already processed)
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35518.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: meet_66112
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35509.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: meet_67886
+[2025-12-06 04:35:45] SKIP: subset_clips/meet/meet_35519.mp4 (already processed)
+[2025-12-06 04:35:45] PROCESSING: subset_raw/meet_35520.mp4.mkv → subset_clips/meet/meet_35520.mp4  [frames 0 to -2]
+[2025-12-06 04:35:45] SUCCESS: subset_clips/meet/meet_35520.mp4
+[2025-12-06 04:35:45] PROCESSING: subset_raw/meet_35521.mp4.webm → subset_clips/meet/meet_35521.mp4  [frames 0 to -2]
+[2025-12-06 04:35:45] SUCCESS: subset_clips/meet/meet_35521.mp4
+[2025-12-06 04:35:45] MISSING FILE: meet_35522
+[2025-12-06 04:35:45] MISSING FILE: meet_35523
+[2025-12-06 04:35:45] SKIP: subset_clips/movie/movie_37120.mp4 (already processed)
+[2025-12-06 04:35:45] PROCESSING: subset_raw/movie_68104.mp4.webm → subset_clips/movie/movie_68104.mp4  [frames 0 to -2]
+[2025-12-06 04:35:45] SUCCESS: subset_clips/movie/movie_68104.mp4
+[2025-12-06 04:35:45] MISSING FILE: movie_68832
+[2025-12-06 04:35:45] SKIP: subset_clips/movie/movie_37126.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: movie_37147
+[2025-12-06 04:35:45] MISSING FILE: movie_37149
+[2025-12-06 04:35:45] MISSING FILE: movie_37150
+[2025-12-06 04:35:45] SKIP: subset_clips/movie/movie_37125.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: movie_37151
+[2025-12-06 04:35:45] MISSING FILE: movie_37152
+[2025-12-06 04:35:45] SKIP: subset_clips/movie/movie_37127.mp4 (already processed)
+[2025-12-06 04:35:45] MISSING FILE: movie_37128
+[2025-12-06 04:35:45] SKIP: subset_clips/movie/movie_37129.mp4 (already processed)
+[2025-12-06 04:35:45] PROCESSING: subset_raw/movie_37130.mp4.webm → subset_clips/movie/movie_37130.mp4  [frames 0 to -2]
+[2025-12-06 04:35:46] SUCCESS: subset_clips/movie/movie_37130.mp4
+[2025-12-06 04:35:46] MISSING FILE: movie_37134
+[2025-12-06 04:35:46] MISSING FILE: movie_67914
+[2025-12-06 04:35:46] MISSING FILE: movie_37135
+[2025-12-06 04:35:46] SKIP: subset_clips/snow/snow_52834.mp4 (already processed)
+[2025-12-06 04:35:46] SKIP: subset_clips/snow/snow_69481.mp4 (already processed)
+[2025-12-06 04:35:46] PROCESSING: subset_raw/snow_70122.mp4.mkv → subset_clips/snow/snow_70122.mp4  [frames 4969 to 5072]
+[2025-12-06 04:35:47] SUCCESS: subset_clips/snow/snow_70122.mp4
+[2025-12-06 04:35:47] SKIP: subset_clips/snow/snow_52862.mp4 (already processed)
+[2025-12-06 04:35:47] SKIP: subset_clips/snow/snow_52863.mp4 (already processed)
+[2025-12-06 04:35:47] MISSING FILE: snow_52864
+[2025-12-06 04:35:47] PROCESSING: subset_raw/snow_52865.mp4.mkv → subset_clips/snow/snow_52865.mp4  [frames 0 to -2]
+[2025-12-06 04:35:48] SUCCESS: subset_clips/snow/snow_52865.mp4
+[2025-12-06 04:35:48] MISSING FILE: snow_52866
+[2025-12-06 04:35:48] MISSING FILE: snow_66519
+[2025-12-06 04:35:48] MISSING FILE: snow_66518
+[2025-12-06 04:35:48] SKIP: subset_clips/snow/snow_52857.mp4 (already processed)
+[2025-12-06 04:35:48] MISSING FILE: snow_67221
+[2025-12-06 04:35:48] MISSING FILE: snow_52867
+[2025-12-06 04:35:48] SKIP: subset_clips/snow/snow_52858.mp4 (already processed)
+[2025-12-06 04:35:48] SKIP: subset_clips/snow/snow_52859.mp4 (already processed)
+[2025-12-06 04:35:48] SKIP: subset_clips/snow/snow_52860.mp4 (already processed)
+[2025-12-06 04:35:48] MISSING FILE: snow_52861
+[2025-12-06 04:35:48] SKIP: subset_clips/tea/tea_57034.mp4 (already processed)
+[2025-12-06 04:35:48] MISSING FILE: tea_68412
+[2025-12-06 04:35:48] PROCESSING: subset_raw/tea_68168.mp4.webm → subset_clips/tea/tea_68168.mp4  [frames 0 to -2]
+[2025-12-06 04:35:48] SUCCESS: subset_clips/tea/tea_68168.mp4
+[2025-12-06 04:35:48] PROCESSING: subset_raw/tea_70034.mp4.mkv → subset_clips/tea/tea_70034.mp4  [frames 4119 to 4222]
+[2025-12-06 04:35:51] SUCCESS: subset_clips/tea/tea_70034.mp4
+[2025-12-06 04:35:51] SKIP: subset_clips/tea/tea_57082.mp4 (already processed)
+[2025-12-06 04:35:51] PROCESSING: subset_raw/tea_57083.mp4.webm → subset_clips/tea/tea_57083.mp4  [frames 0 to -2]
+[2025-12-06 04:35:51] SUCCESS: subset_clips/tea/tea_57083.mp4
+[2025-12-06 04:35:51] MISSING FILE: tea_57084
+[2025-12-06 04:35:51] MISSING FILE: tea_57085
+[2025-12-06 04:35:51] SKIP: subset_clips/tea/tea_57076.mp4 (already processed)
+[2025-12-06 04:35:51] MISSING FILE: tea_67280
+[2025-12-06 04:35:51] MISSING FILE: tea_57086
+[2025-12-06 04:35:51] MISSING FILE: tea_57087
+[2025-12-06 04:35:51] SKIP: subset_clips/tea/tea_57077.mp4 (already processed)
+[2025-12-06 04:35:51] SKIP: subset_clips/tea/tea_57078.mp4 (already processed)
+[2025-12-06 04:35:51] SKIP: subset_clips/tea/tea_57079.mp4 (already processed)
+[2025-12-06 04:35:51] SKIP: subset_clips/tea/tea_57080.mp4 (already processed)
+[2025-12-06 04:35:51] MISSING FILE: tea_57081
+[2025-12-06 04:35:51] SKIP: subset_clips/name/name_37575.mp4 (already processed)
+[2025-12-06 04:35:51] SKIP: subset_clips/name/name_69405.mp4 (already processed)
+[2025-12-06 04:35:51] MISSING FILE: name_68480
+[2025-12-06 04:35:51] SKIP: subset_clips/name/name_68106.mp4 (already processed)
+[2025-12-06 04:35:51] PROCESSING: subset_raw/name_37587.mp4.mkv → subset_clips/name/name_37587.mp4  [frames 0 to -2]
+[2025-12-06 04:35:51] SUCCESS: subset_clips/name/name_37587.mp4
+[2025-12-06 04:35:51] PROCESSING: subset_raw/name_37588.mp4.mkv → subset_clips/name/name_37588.mp4  [frames 0 to -2]
+[2025-12-06 04:35:52] SUCCESS: subset_clips/name/name_37588.mp4
+[2025-12-06 04:35:52] MISSING FILE: name_37589
+[2025-12-06 04:35:52] SKIP: subset_clips/name/name_37580.mp4 (already processed)
+[2025-12-06 04:35:52] MISSING FILE: name_67922
+[2025-12-06 04:35:52] MISSING FILE: name_37590
+[2025-12-06 04:35:52] SKIP: subset_clips/name/name_37581.mp4 (already processed)
+[2025-12-06 04:35:52] SKIP: subset_clips/name/name_37582.mp4 (already processed)
+[2025-12-06 04:35:52] MISSING FILE: name_37583
+[2025-12-06 04:35:52] MISSING FILE: name_37584
+[2025-12-06 04:35:52] SKIP: subset_clips/name/name_37585.mp4 (already processed)
+[2025-12-06 04:35:52] SKIP: subset_clips/name/name_37586.mp4 (already processed)
+[2025-12-06 04:35:52] SKIP: subset_clips/arrive/arrive_03434.mp4 (already processed)
+[2025-12-06 04:35:52] PROCESSING: subset_raw/arrive_70124.mp4.mkv → subset_clips/arrive/arrive_70124.mp4  [frames 5264 to 5397]
+[2025-12-06 04:35:53] SUCCESS: subset_clips/arrive/arrive_70124.mp4
+[2025-12-06 04:35:53] MISSING FILE: arrive_03440
+[2025-12-06 04:35:53] SKIP: subset_clips/arrive/arrive_03441.mp4 (already processed)
+[2025-12-06 04:35:53] PROCESSING: subset_raw/arrive_03442.mp4.webm → subset_clips/arrive/arrive_03442.mp4  [frames 0 to -2]
+[2025-12-06 04:35:53] SUCCESS: subset_clips/arrive/arrive_03442.mp4
+[2025-12-06 04:35:53] PROCESSING: subset_raw/arrive_03443.mp4.mkv → subset_clips/arrive/arrive_03443.mp4  [frames 0 to -2]
+[2025-12-06 04:35:54] SUCCESS: subset_clips/arrive/arrive_03443.mp4
+[2025-12-06 04:35:54] MISSING FILE: arrive_65096
+[2025-12-06 04:35:54] MISSING FILE: arrive_67371
+[2025-12-06 04:35:54] MISSING FILE: arrive_03444
+[2025-12-06 04:35:54] MISSING FILE: arrive_03445
+[2025-12-06 04:35:54] SKIP: subset_clips/arrive/arrive_03435.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/arrive/arrive_03436.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/arrive/arrive_03437.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/arrive/arrive_03438.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/arrive/arrive_03439.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04790.mp4 (already processed)
+[2025-12-06 04:35:54] MISSING FILE: balance_04800
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04801.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04802.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04803.mp4 (already processed)
+[2025-12-06 04:35:54] PROCESSING: subset_raw/balance_04804.mp4.mkv → subset_clips/balance/balance_04804.mp4  [frames 0 to -2]
+[2025-12-06 04:35:54] SUCCESS: subset_clips/balance/balance_04804.mp4
+[2025-12-06 04:35:54] MISSING FILE: balance_65129
+[2025-12-06 04:35:54] MISSING FILE: balance_04795
+[2025-12-06 04:35:54] MISSING FILE: balance_67384
+[2025-12-06 04:35:54] MISSING FILE: balance_04805
+[2025-12-06 04:35:54] MISSING FILE: balance_04806
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04796.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04797.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04798.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/balance/balance_04799.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13133.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13135.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13136.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13137.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13138.mp4 (already processed)
+[2025-12-06 04:35:54] MISSING FILE: convince_13139
+[2025-12-06 04:35:54] MISSING FILE: convince_13141
+[2025-12-06 04:35:54] MISSING FILE: convince_65400
+[2025-12-06 04:35:54] MISSING FILE: convince_65401
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13143.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/convince/convince_13144.mp4 (already processed)
+[2025-12-06 04:35:54] PROCESSING: subset_raw/convince_13146.mp4.mkv → subset_clips/convince/convince_13146.mp4  [frames 0 to -2]
+[2025-12-06 04:35:54] SUCCESS: subset_clips/convince/convince_13146.mp4
+[2025-12-06 04:35:54] MISSING FILE: convince_13147
+[2025-12-06 04:35:54] MISSING FILE: convince_13148
+[2025-12-06 04:35:54] MISSING FILE: convince_13134
+[2025-12-06 04:35:54] SKIP: subset_clips/your/your_64423.mp4 (already processed)
+[2025-12-06 04:35:54] MISSING FILE: your_64432
+[2025-12-06 04:35:54] SKIP: subset_clips/your/your_64433.mp4 (already processed)
+[2025-12-06 04:35:54] SKIP: subset_clips/your/your_64434.mp4 (already processed)
+[2025-12-06 04:35:54] PROCESSING: subset_raw/your_64435.mp4.mkv → subset_clips/your/your_64435.mp4  [frames 0 to -2]
+[2025-12-06 04:35:55] SUCCESS: subset_clips/your/your_64435.mp4
+[2025-12-06 04:35:55] PROCESSING: subset_raw/your_64436.mp4.mkv → subset_clips/your/your_64436.mp4  [frames 0 to -2]
+[2025-12-06 04:35:55] SUCCESS: subset_clips/your/your_64436.mp4
+[2025-12-06 04:35:55] SKIP: subset_clips/your/your_64427.mp4 (already processed)
+[2025-12-06 04:35:55] PROCESSING: subset_raw/your_64437.mp4.mkv → subset_clips/your/your_64437.mp4  [frames 0 to -2]
+[2025-12-06 04:35:55] SUCCESS: subset_clips/your/your_64437.mp4
+[2025-12-06 04:35:55] PROCESSING: subset_raw/your_64438.mp4.mkv → subset_clips/your/your_64438.mp4  [frames 0 to -2]
+[2025-12-06 04:35:56] SUCCESS: subset_clips/your/your_64438.mp4
+[2025-12-06 04:35:56] PROCESSING: subset_raw/your_64439.mp4.mkv → subset_clips/your/your_64439.mp4  [frames 0 to -2]
+[2025-12-06 04:35:56] SUCCESS: subset_clips/your/your_64439.mp4
+[2025-12-06 04:35:56] MISSING FILE: your_64440
+[2025-12-06 04:35:56] SKIP: subset_clips/your/your_64428.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/your/your_64429.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/your/your_64430.mp4 (already processed)
+[2025-12-06 04:35:56] MISSING FILE: your_64431
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_09773.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_69264.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_09777.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_09781.mp4 (already processed)
+[2025-12-06 04:35:56] PROCESSING: subset_raw/cereal_09782.mp4.mkv → subset_clips/cereal/cereal_09782.mp4  [frames 0 to -2]
+[2025-12-06 04:35:56] SUCCESS: subset_clips/cereal/cereal_09782.mp4
+[2025-12-06 04:35:56] MISSING FILE: cereal_65325
+[2025-12-06 04:35:56] MISSING FILE: cereal_67480
+[2025-12-06 04:35:56] PROCESSING: subset_raw/cereal_09783.mp4.mkv → subset_clips/cereal/cereal_09783.mp4  [frames 0 to -2]
+[2025-12-06 04:35:56] SUCCESS: subset_clips/cereal/cereal_09783.mp4
+[2025-12-06 04:35:56] MISSING FILE: cereal_09784
+[2025-12-06 04:35:56] MISSING FILE: cereal_09785
+[2025-12-06 04:35:56] MISSING FILE: cereal_09786
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_09774.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_09775.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/cereal/cereal_09776.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/sorry/sorry_53363.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/sorry/sorry_70225.mp4 (already processed)
+[2025-12-06 04:35:56] SKIP: subset_clips/sorry/sorry_53371.mp4 (already processed)
+[2025-12-06 04:35:56] PROCESSING: subset_raw/sorry_53372.mp4.mkv → subset_clips/sorry/sorry_53372.mp4  [frames 0 to -2]
+[2025-12-06 04:35:57] SUCCESS: subset_clips/sorry/sorry_53372.mp4
+[2025-12-06 04:35:57] PROCESSING: subset_raw/sorry_53373.mp4.mkv → subset_clips/sorry/sorry_53373.mp4  [frames 0 to -2]
+[2025-12-06 04:35:57] SUCCESS: subset_clips/sorry/sorry_53373.mp4
+[2025-12-06 04:35:57] MISSING FILE: sorry_53374
+[2025-12-06 04:35:57] MISSING FILE: sorry_66536
+[2025-12-06 04:35:57] SKIP: subset_clips/sorry/sorry_53365.mp4 (already processed)
+[2025-12-06 04:35:57] MISSING FILE: sorry_67228
+[2025-12-06 04:35:57] MISSING FILE: sorry_53375
+[2025-12-06 04:35:57] SKIP: subset_clips/sorry/sorry_53366.mp4 (already processed)
+[2025-12-06 04:35:57] SKIP: subset_clips/sorry/sorry_53367.mp4 (already processed)
+[2025-12-06 04:35:57] MISSING FILE: sorry_53368
+[2025-12-06 04:35:57] SKIP: subset_clips/sorry/sorry_53370.mp4 (already processed)
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56800.mp4 (already processed)
+[2025-12-06 04:35:57] PROCESSING: subset_raw/talk_68165.mp4.mkv → subset_clips/talk/talk_68165.mp4  [frames 0 to -2]
+[2025-12-06 04:35:57] SUCCESS: subset_clips/talk/talk_68165.mp4
+[2025-12-06 04:35:57] MISSING FILE: talk_68868
+[2025-12-06 04:35:57] MISSING FILE: talk_56828
+[2025-12-06 04:35:57] MISSING FILE: talk_56829
+[2025-12-06 04:35:57] MISSING FILE: talk_56830
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56813.mp4 (already processed)
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56816.mp4 (already processed)
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56811.mp4 (already processed)
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56819.mp4 (already processed)
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56820.mp4 (already processed)
+[2025-12-06 04:35:57] MISSING FILE: talk_67277
+[2025-12-06 04:35:57] SKIP: subset_clips/talk/talk_56821.mp4 (already processed)
+[2025-12-06 04:35:57] PROCESSING: subset_raw/talk_56827.mp4.mkv → subset_clips/talk/talk_56827.mp4  [frames 0 to -2]
+[2025-12-06 04:35:58] SUCCESS: subset_clips/talk/talk_56827.mp4
+[2025-12-06 04:35:58] SKIP: subset_clips/bracelet/bracelet_07469.mp4 (already processed)
+[2025-12-06 04:35:58] MISSING FILE: bracelet_07476
+[2025-12-06 04:35:58] MISSING FILE: bracelet_07477
+[2025-12-06 04:35:58] MISSING FILE: bracelet_07478
+[2025-12-06 04:35:58] MISSING FILE: bracelet_65247
+[2025-12-06 04:35:58] MISSING FILE: bracelet_67436
+[2025-12-06 04:35:58] MISSING FILE: bracelet_07479
+[2025-12-06 04:35:58] SKIP: subset_clips/bracelet/bracelet_07470.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/bracelet/bracelet_07471.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/bracelet/bracelet_07472.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/bracelet/bracelet_07473.mp4 (already processed)
+[2025-12-06 04:35:58] MISSING FILE: bracelet_07474
+[2025-12-06 04:35:58] SKIP: subset_clips/bracelet/bracelet_07475.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17919.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_69304.mp4 (already processed)
+[2025-12-06 04:35:58] MISSING FILE: dry_17938
+[2025-12-06 04:35:58] MISSING FILE: dry_17939
+[2025-12-06 04:35:58] MISSING FILE: dry_65549
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17930.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17931.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17932.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17933.mp4 (already processed)
+[2025-12-06 04:35:58] MISSING FILE: dry_17934
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17935.mp4 (already processed)
+[2025-12-06 04:35:58] SKIP: subset_clips/dry/dry_17936.mp4 (already processed)
+[2025-12-06 04:35:58] PROCESSING: subset_raw/dry_17937.mp4.mkv → subset_clips/dry/dry_17937.mp4  [frames 0 to -2]
+[2025-12-06 04:35:58] SUCCESS: subset_clips/dry/dry_17937.mp4
+[2025-12-06 04:35:58] ===== SEGMENTATION PROCESS COMPLETED =====
+[2025-12-06 04:35:58] Total attempts: 234
+[2025-12-06 04:35:58] Successfully segmented: 32
+[2025-12-06 04:35:58] Already processed / skipped: 110
+[2025-12-06 04:35:58] Missing or failed: 92
+[2025-12-06 04:35:58] Output folder: subset_clips/

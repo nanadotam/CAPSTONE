@@ -1,0 +1,501 @@
+Downloading fish from https://www.youtube.com/watch?v=lWaQxL25Aew
+Downloading fish from http://aslbricks.org/New/ASL-Videos/fish.mp4
+Downloading fish from http://www.aslpro.com/main/f/fish.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x10414d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x10414d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading fish from http://www.aslsearch.com/signs/videos/fish.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/fish.mp4
+Downloading fish from https://media.spreadthesign.com/video/mp4/13/74988.mp4
+Downloading fish from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/fish.mp4
+Downloading fish from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Fish-_GVODUZLS70.mp4
+Downloading fish from https://media.asldeafined.com/vocabulary/1468494686.303.mp4
+Downloading fish from https://www.handspeak.com/word/f/fish2.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading fish from https://www.handspeak.com/word/f/fish.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading fish from https://www.signingsavvy.com/signs/mp4/6/6808.mp4
+Downloading fish from https://www.signingsavvy.com/signs/mp4/6/6809.mp4
+Downloading fish from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/FI/FISH-387.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading fish from https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/fish.mov
+ERROR: [generic] Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+Downloading fish from https://youtu.be/61B8V3YHlqg
+ERROR: [youtube] 61B8V3YHlqg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading fish from https://www.youtube.com/watch?v=22cYLTT67sc
+ERROR: [youtube] 22cYLTT67sc: Video unavailable
+Downloading fish from https://www.youtube.com/watch?v=_41TQ39vHMA
+Downloading fish from https://www.youtube.com/watch?v=IJyUcYJMpmU
+Downloading fish from https://www.youtube.com/watch?v=w1_BBOZWwPY
+Downloading fish from https://www.youtube.com/watch?v=xCQmc-1g9fM
+Downloading meet from https://www.youtube.com/watch?v=IxO7unGawfk
+Downloading meet from https://www.youtube.com/watch?v=pWFDhzkId9o
+Downloading meet from https://www.youtube.com/watch?v=VSBIqNFEQxI
+ERROR: [youtube] VSBIqNFEQxI: Video unavailable
+Downloading meet from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Meet-SHPBneo_ofY.mp4
+Downloading meet from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Meet-UvaayIDXkuw.mp4
+Downloading meet from https://media.asldeafined.com/vocabulary/1468714718.3075.mp4
+Downloading meet from https://www.handspeak.com/word/m/meet-me.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading meet from https://www.handspeak.com/word/m/meet.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading meet from https://www.signingsavvy.com/signs/mp4/0/517.mp4
+Downloading meet from https://www.signingsavvy.com/signs/mp4/5/5837.mp4
+Downloading meet from https://www.signingsavvy.com/signs/mp4/9/9003.mp4
+Downloading meet from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ME/MEET-1620.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading meet from https://media.spreadthesign.com/video/mp4/13/50874.mp4
+Downloading meet from https://youtu.be/W4FXyEWBu4I
+ERROR: [youtube] W4FXyEWBu4I: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading meet from https://www.youtube.com/watch?v=AsdBSknwrjg
+Downloading meet from https://www.youtube.com/watch?v=eP816GBFVeg
+Downloading meet from https://www.youtube.com/watch?v=FC1R9kyegJY
+Downloading meet from http://www.aslpro.com/main/m/meet.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x1065492b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x1065492b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading meet from http://www.aslsearch.com/signs/videos/meet.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/meet.mp4
+Downloading movie from https://www.youtube.com/watch?v=IxO7unGawfk
+Downloading movie from https://www.youtube.com/watch?v=2vC2G0kDHoQ
+Downloading movie from https://www.youtube.com/watch?v=QkeTuEbsogM
+ERROR: [youtube] QkeTuEbsogM: Video unavailable
+Downloading movie from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/movie.mp4
+Downloading movie from http://www.aslpro.com/main/m/movie.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x106e512b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x106e512b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading movie from http://www.aslpro.com//main/m/movie_times.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1037512b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1037512b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading movie from http://www.aslpro.com//main/m/movie_usher.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1038512b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1038512b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading movie from https://media.spreadthesign.com/video/mp4/13/48607.mp4
+Downloading movie from http://www.aslpro.com//main/m/movie_vhs_tape.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x104c692b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x104c692b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading movie from http://www.aslsearch.com/signs/videos/movie.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/movie.mp4
+Downloading movie from https://media.asldeafined.com/vocabulary/1468717080.3985.mp4
+Downloading movie from https://www.handspeak.com/word/m/movie.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading movie from https://www.signingsavvy.com/signs/mp4/8/8626.mp4
+Downloading movie from https://www.youtube.com/watch?v=ACBYkV6CDxI
+Downloading movie from http://www.aslpro.com//main/m/movie_drive_in.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1064492b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1064492b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading movie from https://youtu.be/pRL45Ffm4Vw
+ERROR: [youtube] pRL45Ffm4Vw: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading movie from http://www.aslpro.com//main/m/movie_dvd.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x10594d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x10594d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading snow from https://www.youtube.com/watch?v=XB3Q6IX6CBo
+Downloading snow from http://aslbricks.org/New/ASL-Videos/snow.mp4
+Downloading snow from https://www.youtube.com/watch?v=lvqGMGFmuV4
+Downloading snow from https://www.signingsavvy.com/signs/mp4/14/14605.mp4
+Downloading snow from https://www.signingsavvy.com/signs/mp4/14/14606.mp4
+Downloading snow from https://www.youtube.com/watch?v=---cgPhwI8k
+ERROR: [youtube] ---cgPhwI8k: Video unavailable
+Downloading snow from https://www.youtube.com/watch?v=x-dZm8O0gys
+Downloading snow from http://www.aslpro.com/main/s/snow.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x104de92b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x104de92b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading snow from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOW-1085.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading snow from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOW-686.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading snow from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/snow.mp4
+Downloading snow from https://youtu.be/KkavX3HF0Es
+ERROR: [youtube] KkavX3HF0Es: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading snow from http://www.aslsearch.com/signs/videos/snow.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/snow.mp4
+Downloading snow from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Snow-0uJcHK934ik.mp4
+Downloading snow from https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Snow.mp4
+Downloading snow from https://media.asldeafined.com/vocabulary/1468775731.1702.mp4
+Downloading snow from https://www.handspeak.com/word/s/snow.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading tea from https://www.youtube.com/watch?v=x6CehcknaH8
+[download] Got error: (<urllib3.connection.HTTPSConnection object at 0x120385a90>, 'Connection to rr1---sn-h5povox-avnl.googlevideo.com timed out. (connect timeout=20.0)'). Giving up after 10 retries
+Downloading tea from https://www.youtube.com/watch?v=DJBl-DqFr54
+ERROR: [youtube] DJBl-DqFr54: Video unavailable
+Downloading tea from https://www.youtube.com/watch?v=j0PsxS4J59U
+Downloading tea from https://www.youtube.com/watch?v=sErq0TJMKEo
+Downloading tea from https://www.signingsavvy.com/signs/mp4/5/5818.mp4
+Downloading tea from https://www.youtube.com/watch?v=t56aB-4U9q0
+Downloading tea from http://www.aslpro.com/main/t/tea_hot.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x106d212b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x106d212b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading tea from http://www.aslpro.com/main/t/tea_iced.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x102c692b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x102c692b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading tea from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tea.mp4
+Downloading tea from https://youtu.be/lu7CjOVmTWc
+ERROR: [youtube] lu7CjOVmTWc: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading tea from http://www.aslpro.com/main/t/tea.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x107a6d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x107a6d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading tea from http://www.aslsearch.com/signs/videos/tea.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/tea.mp4
+Downloading tea from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea%2C%20Vote-JGnz_I9hFCY.mp4
+Downloading tea from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea-KteSJtbKjwA.mp4
+Downloading tea from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea-UT0MFR_XdeE.mp4
+Downloading tea from https://media.asldeafined.com/vocabulary/1468943368.5406.mp4
+Downloading tea from https://www.handspeak.com/word/t/tea.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading name from https://www.youtube.com/watch?v=1_jXxjd0lKE
+Downloading name from http://aslbricks.org/New/ASL-Videos/name.mp4
+Downloading name from https://www.youtube.com/watch?v=GDAvnSKfZoU
+ERROR: [youtube] GDAvnSKfZoU: Video unavailable
+Downloading name from https://www.youtube.com/watch?v=_ObcZbitfJg
+Downloading name from https://www.youtube.com/watch?v=GbeC9TFuSX4
+Downloading name from https://www.youtube.com/watch?v=nMFZhDcynoY
+Downloading name from http://www.aslpro.com/main/n/name.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1056ad2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1056ad2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading name from https://media.spreadthesign.com/video/mp4/13/48612.mp4
+Downloading name from https://youtu.be/yFYsa9KPUXc
+ERROR: [youtube] yFYsa9KPUXc: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading name from http://www.aslsearch.com/signs/videos/name.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/name.mp4
+Downloading name from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Name-DikA_15hmng.mp4
+Downloading name from https://media.asldeafined.com/vocabulary/1468717645.5170.mp4
+Downloading name from https://www.handspeak.com/word/n/name.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading name from https://www.handspeak.com/word/n/name-verb.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading name from https://www.signingsavvy.com/signs/mp4/7/7751.mp4
+Downloading name from https://www.youtube.com/watch?v=7ZeN8irshAc
+Downloading arrive from https://www.youtube.com/watch?v=jPn0FQxkdBc
+Downloading arrive from https://www.youtube.com/watch?v=lvqGMGFmuV4
+Downloading arrive from https://www.handspeak.com/word/a/arrive.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading arrive from https://www.signingsavvy.com/signs/mp4/14/14210.mp4
+Downloading arrive from https://www.youtube.com/watch?v=at6KPysyHg0
+Downloading arrive from https://www.youtube.com/watch?v=y8pdn_zfFzU
+Downloading arrive from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AR/ARRIVE-774.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading arrive from https://youtu.be/5Yztl5YcS0I
+ERROR: [youtube] 5Yztl5YcS0I: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading arrive from http://www.aslpro.com/main/a/arrive.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x106eb52b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x106eb52b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading arrive from http://www.aslsearch.com/signs/videos/arrive.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/arrive.mp4
+Downloading arrive from https://media.spreadthesign.com/video/mp4/13/62284.mp4
+Downloading arrive from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/arrive.mp4
+Downloading arrive from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrive%202-xX6zndXcjHQ.mp4
+Downloading arrive from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrive-BQv62tldXjk.mp4
+Downloading arrive from https://media.asldeafined.com/vocabulary/1466645152.5647.mp4
+Downloading balance from https://www.youtube.com/watch?v=pDqITge_TGs
+Downloading balance from https://www.handspeak.com/word/b/balance.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading balance from https://www.signingsavvy.com/signs/mp4/23/23213.mp4
+Downloading balance from https://www.signingsavvy.com/signs/mp4/23/23214.mp4
+Downloading balance from https://www.signingsavvy.com/signs/mp4/23/23215.mp4
+Downloading balance from https://www.youtube.com/watch?v=857JAHoSyzw
+Downloading balance from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BA/BALANCE-855.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading balance from https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/balance.mov
+ERROR: [generic] Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+Downloading balance from https://youtu.be/c0xdS1ZmB2c
+ERROR: [youtube] c0xdS1ZmB2c: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading balance from http://www.aslpro.com/main/b/balance.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x106bcd2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x106bcd2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading balance from http://www.aslsearch.com/signs/videos/balance.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/balance.mp4
+Downloading balance from https://media.spreadthesign.com/video/mp4/13/244081.mp4
+Downloading balance from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Balance-AwfklIGgTfY.mp4
+Downloading balance from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Balance-pPmpPMWBoj4.mp4
+Downloading balance from https://media.asldeafined.com/vocabulary/1466648468.2435.mp4
+Downloading convince from https://www.youtube.com/watch?v=PPmQd2zWdP0
+Downloading convince from https://media.spreadthesign.com/video/mp4/13/58492.mp4
+Downloading convince from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Convince-QqwBIa-D10c.mp4
+Downloading convince from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Convince-x7kJUcT3Qjc.mp4
+Downloading convince from https://media.asldeafined.com/vocabulary/1468725280.2519.mp4
+Downloading convince from https://www.handspeak.com/word/c/convince-me2.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading convince from https://www.handspeak.com/word/c/convince.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading convince from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONVINCE-1138.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading convince from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONVINCE-1984.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading convince from https://www.signingsavvy.com/signs/mp4/23/23342.mp4
+Downloading convince from https://www.signingsavvy.com/signs/mp4/23/23343.mp4
+Downloading convince from https://www.youtube.com/watch?v=fsYZa-XFStA
+Downloading convince from http://www.aslpro.com/main/c/convince.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x104f492b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x104f492b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading convince from http://www.aslsearch.com/signs/videos/convince.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/convince.mp4
+Downloading convince from https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/convince.mov
+ERROR: [generic] Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+Downloading your from https://www.youtube.com/watch?v=BRO-oYGV224
+Downloading your from https://www.handspeak.com/word/y/your-plu.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading your from https://www.signingsavvy.com/signs/mp4/7/7201.mp4
+Downloading your from https://www.signingsavvy.com/signs/mp4/8/8638.mp4
+Downloading your from https://www.youtube.com/watch?v=-1Hz72xltNk
+Downloading your from https://www.youtube.com/watch?v=8MrC2c29fnk
+Downloading your from https://media.spreadthesign.com/video/mp4/13/307682.mp4
+Downloading your from https://www.youtube.com/watch?v=MijiYPUzXe4
+Downloading your from https://www.youtube.com/watch?v=TT6gxcZ8f2E
+Downloading your from https://www.youtube.com/watch?v=YzuOEjefcIY
+Downloading your from http://www.aslpro.com/main/y/your.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x1053552b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x1053552b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading your from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/your.mp4
+Downloading your from https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Your.mp4
+Downloading your from https://media.asldeafined.com/vocabulary/1468775332.5006.mp4
+Downloading your from https://www.handspeak.com/word/y/your.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading cereal from https://www.youtube.com/watch?v=PPmQd2zWdP0
+Downloading cereal from http://aslbricks.org/New/ASL-Videos/cereal.mp4
+Downloading cereal from https://media.asldeafined.com/vocabulary/1471145368.3313.mp4
+Downloading cereal from https://www.signingsavvy.com/signs/mp4/7/7758.mp4
+Downloading cereal from https://www.youtube.com/watch?v=4uO8sY4hNYs
+Downloading cereal from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CE/CEREAL-595.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading cereal from https://youtu.be/Vmwa9EII64U
+ERROR: [youtube] Vmwa9EII64U: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading cereal from https://www.youtube.com/watch?v=ZaJ02AFRjgk
+Downloading cereal from http://www.aslpro.com/main/c/cereal_1.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x1074752b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x1074752b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading cereal from http://www.aslpro.com/main/c/cereal_2.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x106c4d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x106c4d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading cereal from http://www.aslsearch.com/signs/videos/cereal.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/cereal.mp4
+Downloading cereal from https://media.spreadthesign.com/video/mp4/13/125908.mp4
+Downloading cereal from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cereal-JUJ9iDk7_6Y.mp4
+Downloading cereal from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Cereal-TsB1bC1p81k.mp4
+Downloading sorry from https://www.youtube.com/watch?v=XB3Q6IX6CBo
+Downloading sorry from https://www.youtube.com/watch?v=4Nh1iFv2BMc
+Downloading sorry from https://www.signingsavvy.com/signs/mp4/6/6968.mp4
+Downloading sorry from https://www.youtube.com/watch?v=jRHDjxWJma0
+Downloading sorry from https://www.youtube.com/watch?v=KuqlCVeWGEI
+Downloading sorry from http://www.aslpro.com/main/s/sorry.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x104d0d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x104d0d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading sorry from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SO/SORRY-566.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading sorry from https://media.spreadthesign.com/video/mp4/13/94029.mp4
+Downloading sorry from https://youtu.be/BL90-ejIQ9Y
+ERROR: [youtube] BL90-ejIQ9Y: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading sorry from http://www.aslsearch.com/signs/videos/sorry.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/sorry.mp4
+Downloading sorry from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/sorry.mp4
+Downloading sorry from https://media.asldeafined.com/vocabulary/1468776763.7085.mp4
+Downloading sorry from https://www.handspeak.com/word/s/sorry.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading sorry from https://www.signingsavvy.com/signs/mp4/6/6967.mp4
+Downloading talk from https://www.youtube.com/watch?v=x6CehcknaH8
+Downloading talk from https://www.youtube.com/watch?v=8FrWB5VSoNQ
+Downloading talk from https://www.youtube.com/watch?v=RuDTzUVgKFM
+ERROR: [youtube] RuDTzUVgKFM: Video unavailable
+Downloading talk from https://www.youtube.com/watch?v=WhUh8CHjj4k
+ERROR: [youtube] WhUh8CHjj4k: Video unavailable
+Downloading talk from http://www.aslpro.com/main/t/talk.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1077492b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1077492b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading talk from http://www.aslsearch.com/signs/videos/speak.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/speak.mp4
+Downloading talk from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Talk-6MXys6LpYAo.mp4
+Downloading talk from https://media.asldeafined.com/vocabulary/1468943013.6512.mp4
+Downloading talk from https://media.spreadthesign.com/video/mp4/13/50902.mp4
+Downloading talk from https://www.signingsavvy.com/signs/mp4/14/14613.mp4
+Downloading talk from https://www.signingsavvy.com/signs/mp4/14/14614.mp4
+Downloading talk from https://youtu.be/2C95Ib4KdOg
+ERROR: [youtube] 2C95Ib4KdOg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading talk from https://www.signingsavvy.com/signs/mp4/22/22166.mp4
+Downloading talk from https://www.youtube.com/watch?v=vB3APsM4FFQ
+Downloading bracelet from https://www.youtube.com/watch?v=pDqITge_TGs
+Downloading bracelet from http://www.aslpro.com//main/b/bracelet_charm.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x109a4d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x109a4d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading bracelet from http://www.aslpro.com//main/b/bracelet_id.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x10414d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x10414d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading bracelet from http://www.aslpro.com/main/b/bracelet.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x10354d2b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x10354d2b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading bracelet from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/BR/BRACELET-1979.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading bracelet from https://youtu.be/4wiQljLEcGw
+ERROR: [youtube] 4wiQljLEcGw: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading bracelet from http://www.aslsearch.com/signs/videos/bracelet.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/bracelet.mp4
+Downloading bracelet from https://media.spreadthesign.com/video/mp4/13/125263.mp4
+Downloading bracelet from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/bracelet.mp4
+Downloading bracelet from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Wrist%20Bracelet-ARDQc024Byk.mp4
+Downloading bracelet from https://media.asldeafined.com/vocabulary/1466685330.9799.mp4
+Downloading bracelet from https://www.handspeak.com/word/b/bracelet.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading bracelet from https://www.signingsavvy.com/signs/mp4/9/9583.mp4
+Downloading dry from https://www.youtube.com/watch?v=ChIupJBcxjs
+Downloading dry from http://aslbricks.org/New/ASL-Videos/dry.mp4
+Downloading dry from http://www.aslpro.com/main/d/dry.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x10524d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x10524d2b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading dry from http://www.aslsearch.com/signs/videos/dry.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/dry.mp4
+Downloading dry from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRY-122.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading dry from https://media.spreadthesign.com/video/mp4/13/58435.mp4
+Downloading dry from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20dry-9PlaFkAxnC0.mp4
+Downloading dry from https://media.asldeafined.com/vocabulary/1468206787.7748.mp4
+Downloading dry from https://media.asldeafined.com/vocabulary/1468206811.759.mp4
+Downloading dry from https://www.handspeak.com/word/d/dry.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading dry from https://www.signingsavvy.com/signs/mp4/22/22922.mp4
+Downloading dry from https://www.signingsavvy.com/signs/mp4/8/8728.mp4
+Downloading dry from https://www.youtube.com/watch?v=ki6TeQOTo1U
+Downloading meet from https://www.youtube.com/watch?v=IxO7unGawfk
+Downloading meet from https://www.youtube.com/watch?v=pWFDhzkId9o
+Downloading meet from https://www.youtube.com/watch?v=VSBIqNFEQxI
+ERROR: [youtube] VSBIqNFEQxI: Video unavailable
+Downloading meet from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Meet-SHPBneo_ofY.mp4
+Downloading meet from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Meet-UvaayIDXkuw.mp4
+Downloading meet from https://media.asldeafined.com/vocabulary/1468714718.3075.mp4
+Downloading meet from https://www.handspeak.com/word/m/meet-me.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading meet from https://www.handspeak.com/word/m/meet.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading meet from https://www.signingsavvy.com/signs/mp4/0/517.mp4
+Downloading meet from https://www.signingsavvy.com/signs/mp4/5/5837.mp4
+Downloading meet from https://www.signingsavvy.com/signs/mp4/9/9003.mp4
+Downloading meet from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/ME/MEET-1620.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading meet from https://media.spreadthesign.com/video/mp4/13/50874.mp4
+Downloading meet from https://youtu.be/W4FXyEWBu4I
+ERROR: [youtube] W4FXyEWBu4I: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading meet from https://www.youtube.com/watch?v=AsdBSknwrjg
+Downloading meet from https://www.youtube.com/watch?v=eP816GBFVeg
+Downloading meet from https://www.youtube.com/watch?v=FC1R9kyegJY
+Downloading meet from http://www.aslpro.com/main/m/meet.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x106ff12b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x106ff12b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading meet from http://www.aslsearch.com/signs/videos/meet.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/meet.mp4
+Downloading snow from https://www.youtube.com/watch?v=XB3Q6IX6CBo
+Downloading snow from http://aslbricks.org/New/ASL-Videos/snow.mp4
+Downloading snow from https://www.youtube.com/watch?v=lvqGMGFmuV4
+Downloading snow from https://www.signingsavvy.com/signs/mp4/14/14605.mp4
+Downloading snow from https://www.signingsavvy.com/signs/mp4/14/14606.mp4
+Downloading snow from https://www.youtube.com/watch?v=---cgPhwI8k
+ERROR: [youtube] ---cgPhwI8k: Video unavailable
+Downloading snow from https://www.youtube.com/watch?v=x-dZm8O0gys
+Downloading snow from http://www.aslpro.com/main/s/snow.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x10501d2b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x10501d2b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading snow from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOW-1085.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading snow from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/SN/SNOW-686.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading snow from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/snow.mp4
+Downloading snow from https://youtu.be/KkavX3HF0Es
+ERROR: [youtube] KkavX3HF0Es: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading snow from http://www.aslsearch.com/signs/videos/snow.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/snow.mp4
+Downloading snow from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Snow-0uJcHK934ik.mp4
+Downloading snow from https://signstock.blob.core.windows.net/signschool/videos/SignSchool%20Snow.mp4
+Downloading snow from https://media.asldeafined.com/vocabulary/1468775731.1702.mp4
+Downloading snow from https://www.handspeak.com/word/s/snow.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading tea from https://www.youtube.com/watch?v=x6CehcknaH8
+Downloading tea from https://www.youtube.com/watch?v=DJBl-DqFr54
+ERROR: [youtube] DJBl-DqFr54: Video unavailable
+Downloading tea from https://www.youtube.com/watch?v=j0PsxS4J59U
+Downloading tea from https://www.youtube.com/watch?v=sErq0TJMKEo
+Downloading tea from https://www.signingsavvy.com/signs/mp4/5/5818.mp4
+Downloading tea from https://www.youtube.com/watch?v=t56aB-4U9q0
+Downloading tea from http://www.aslpro.com/main/t/tea_hot.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x103a692b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x103a692b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading tea from http://www.aslpro.com/main/t/tea_iced.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x1119492b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x1119492b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading tea from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/tea.mp4
+Downloading tea from https://youtu.be/lu7CjOVmTWc
+ERROR: [youtube] lu7CjOVmTWc: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading tea from http://www.aslpro.com/main/t/tea.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1074e92b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1074e92b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading tea from http://www.aslsearch.com/signs/videos/tea.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/tea.mp4
+Downloading tea from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea%2C%20Vote-JGnz_I9hFCY.mp4
+Downloading tea from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea-KteSJtbKjwA.mp4
+Downloading tea from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Tea-UT0MFR_XdeE.mp4
+Downloading tea from https://media.asldeafined.com/vocabulary/1468943368.5406.mp4
+Downloading tea from https://www.handspeak.com/word/t/tea.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading name from https://www.youtube.com/watch?v=1_jXxjd0lKE
+Downloading name from http://aslbricks.org/New/ASL-Videos/name.mp4
+Downloading name from https://www.youtube.com/watch?v=GDAvnSKfZoU
+ERROR: [youtube] GDAvnSKfZoU: Video unavailable
+Downloading name from https://www.youtube.com/watch?v=_ObcZbitfJg
+Downloading name from https://www.youtube.com/watch?v=GbeC9TFuSX4
+Downloading name from https://www.youtube.com/watch?v=nMFZhDcynoY
+Downloading name from http://www.aslpro.com/main/n/name.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x1051d12b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x1051d12b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading name from https://media.spreadthesign.com/video/mp4/13/48612.mp4
+Downloading name from https://youtu.be/yFYsa9KPUXc
+ERROR: [youtube] yFYsa9KPUXc: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading name from http://www.aslsearch.com/signs/videos/name.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/name.mp4
+Downloading name from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Name-DikA_15hmng.mp4
+Downloading name from https://media.asldeafined.com/vocabulary/1468717645.5170.mp4
+Downloading name from https://www.handspeak.com/word/n/name.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading name from https://www.handspeak.com/word/n/name-verb.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading name from https://www.signingsavvy.com/signs/mp4/7/7751.mp4
+Downloading name from https://www.youtube.com/watch?v=7ZeN8irshAc
+Downloading arrive from https://www.youtube.com/watch?v=jPn0FQxkdBc
+Downloading arrive from https://www.youtube.com/watch?v=lvqGMGFmuV4
+Downloading arrive from https://www.handspeak.com/word/a/arrive.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading arrive from https://www.signingsavvy.com/signs/mp4/14/14210.mp4
+Downloading arrive from https://www.youtube.com/watch?v=at6KPysyHg0
+Downloading arrive from https://www.youtube.com/watch?v=y8pdn_zfFzU
+Downloading arrive from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/AR/ARRIVE-774.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading arrive from https://youtu.be/5Yztl5YcS0I
+ERROR: [youtube] 5Yztl5YcS0I: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading arrive from http://www.aslpro.com/main/a/arrive.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x1039952b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x1039952b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading arrive from http://www.aslsearch.com/signs/videos/arrive.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/arrive.mp4
+Downloading arrive from https://media.spreadthesign.com/video/mp4/13/62284.mp4
+Downloading arrive from https://s3-us-west-1.amazonaws.com/files.startasl.com/asldictionary/arrive.mp4
+Downloading arrive from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrive%202-xX6zndXcjHQ.mp4
+Downloading arrive from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Arrive-BQv62tldXjk.mp4
+Downloading arrive from https://media.asldeafined.com/vocabulary/1466645152.5647.mp4
+Downloading convince from https://www.youtube.com/watch?v=PPmQd2zWdP0
+Downloading convince from https://media.spreadthesign.com/video/mp4/13/58492.mp4
+Downloading convince from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Convince-QqwBIa-D10c.mp4
+Downloading convince from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Convince-x7kJUcT3Qjc.mp4
+Downloading convince from https://media.asldeafined.com/vocabulary/1468725280.2519.mp4
+Downloading convince from https://www.handspeak.com/word/c/convince-me2.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading convince from https://www.handspeak.com/word/c/convince.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading convince from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONVINCE-1138.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading convince from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/CO/CONVINCE-1984.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading convince from https://www.signingsavvy.com/signs/mp4/23/23342.mp4
+Downloading convince from https://www.signingsavvy.com/signs/mp4/23/23343.mp4
+Downloading convince from https://www.youtube.com/watch?v=fsYZa-XFStA
+Downloading convince from http://www.aslpro.com/main/c/convince.swf
+ERROR: [generic] Unable to download webpage: <urllib3.connection.HTTPConnection object at 0x106be52b0>: Failed to establish a new connection: [Errno 51] Network is unreachable (caused by TransportError('<urllib3.connection.HTTPConnection object at 0x106be52b0>: Failed to establish a new connection: [Errno 51] Network is unreachable'))
+Downloading convince from http://www.aslsearch.com/signs/videos/convince.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/convince.mp4
+Downloading convince from https://elementalaslconcepts.weebly.com/uploads/2/4/4/5/24454483/convince.mov
+ERROR: [generic] Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+Downloading talk from https://www.youtube.com/watch?v=x6CehcknaH8
+Downloading talk from https://www.youtube.com/watch?v=8FrWB5VSoNQ
+Downloading talk from https://www.youtube.com/watch?v=RuDTzUVgKFM
+ERROR: [youtube] RuDTzUVgKFM: Video unavailable
+Downloading talk from https://www.youtube.com/watch?v=WhUh8CHjj4k
+ERROR: [youtube] WhUh8CHjj4k: Video unavailable
+Downloading talk from http://www.aslpro.com/main/t/talk.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x1076492b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x1076492b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading talk from http://www.aslsearch.com/signs/videos/speak.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/speak.mp4
+Downloading talk from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20Talk-6MXys6LpYAo.mp4
+Downloading talk from https://media.asldeafined.com/vocabulary/1468943013.6512.mp4
+Downloading talk from https://media.spreadthesign.com/video/mp4/13/50902.mp4
+Downloading talk from https://www.signingsavvy.com/signs/mp4/14/14613.mp4
+Downloading talk from https://www.signingsavvy.com/signs/mp4/14/14614.mp4
+Downloading talk from https://youtu.be/2C95Ib4KdOg
+ERROR: [youtube] 2C95Ib4KdOg: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+Downloading talk from https://www.signingsavvy.com/signs/mp4/22/22166.mp4
+Downloading talk from https://www.youtube.com/watch?v=vB3APsM4FFQ
+Downloading dry from https://www.youtube.com/watch?v=ChIupJBcxjs
+Downloading dry from http://aslbricks.org/New/ASL-Videos/dry.mp4
+Downloading dry from http://www.aslpro.com/main/d/dry.swf
+ERROR: [generic] Unable to download webpage: (<urllib3.connection.HTTPConnection object at 0x107e512b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)') (caused by TransportError("(<urllib3.connection.HTTPConnection object at 0x107e512b0>, 'Connection to www.aslpro.com timed out. (connect timeout=20.0)')"))
+Downloading dry from http://www.aslsearch.com/signs/videos/dry.mp4
+ERROR: Unsupported URL: http://www.aslsearch.com/signs/videos/dry.mp4
+Downloading dry from https://aslsignbank.haskins.yale.edu/dictionary/protected_media/glossvideo/ASL/DR/DRY-122.mp4
+ERROR: [generic] Unable to download webpage: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028) (caused by CertificateVerifyError("[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aslsignbank.haskins.yale.edu'. (_ssl.c:1028)")); please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+Downloading dry from https://media.spreadthesign.com/video/mp4/13/58435.mp4
+Downloading dry from https://signstock.blob.core.windows.net/signschool/videos/db_uploads/SignSchool%20dry-9PlaFkAxnC0.mp4
+Downloading dry from https://media.asldeafined.com/vocabulary/1468206787.7748.mp4
+Downloading dry from https://media.asldeafined.com/vocabulary/1468206811.759.mp4
+Downloading dry from https://www.handspeak.com/word/d/dry.mp4
+ERROR: [generic] Unable to download webpage: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+Downloading dry from https://www.signingsavvy.com/signs/mp4/22/22922.mp4
+Downloading dry from https://www.signingsavvy.com/signs/mp4/8/8728.mp4
+Downloading dry from https://www.youtube.com/watch?v=ki6TeQOTo1U
